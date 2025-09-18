@@ -1,4 +1,3 @@
-[MambaHap：A Mamba-Based Selective State-Space Model for Accurate Haplotype Assembly.md](https://github.com/user-attachments/files/22402391/MambaHap.A.Mamba-Based.Selective.State-Space.Model.for.Accurate.Haplotype.Assembly.md)
 # MambaHap：A Mamba-Based Selective State-Space Model for Accurate Haplotype Assembly
 
 ## About
